@@ -20,5 +20,3 @@ This is a simple .NET Core API for managing users with CRUD operations.
 - `PUT /api/users/{id}` → Update user details
 - `DELETE /api/users/{id}` → Delete a user
 
-## Author:
-- Developed using GitHub Copilot
